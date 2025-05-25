@@ -1,0 +1,17 @@
+[
+  {
+    "role": "student",
+    "group_id": "ИС-301",
+    "user_key": "STU123"
+  },
+  {
+    "role": "student",
+    "group_id": "ИС-302",
+    "user_key": "STU456"
+  },
+  {
+    "role": "teacher",
+    "group_id": "ИС-301",
+    "user_key": "TEACH789"
+  }
+]
